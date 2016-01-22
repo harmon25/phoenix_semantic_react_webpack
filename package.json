@@ -1,0 +1,36 @@
+{
+  "name": "phoenix_relay",
+  "version": "1.0.0",
+  "description": "To start your Phoenix app:",
+  "main": "\"\"",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harmon25",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "html-webpack-plugin": "^2.7.1",
+    "less": "^2.5.3",
+    "less-loader": "^2.2.2",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.11"
+  },
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
+}

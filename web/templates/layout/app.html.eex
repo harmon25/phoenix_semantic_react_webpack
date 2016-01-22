@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Phoenix Semantic Webpack</title>
+  <link href="css/app.css" rel="stylesheet"></head>
+  <body>
+
+<div class="ui vertical animated button">
+  <div class="hidden content">Shop</div>
+  <div class="visible content">
+    <i class="shop icon"></i>
+  </div>
+</div>
+
+       <%= @inner %>
+  <script src="js/vendor.bundle.js"></script>
+  <script src="js/app.js"></script></body>
+</html>
